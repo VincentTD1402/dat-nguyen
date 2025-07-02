@@ -79,6 +79,6 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [namphungdn134@gmail.com](mailto:namphungdn134@gmail.com)  
-- 🌐 Facebook: [@nmph13](https://www.facebook.com/nmph13)  
-- 💼 LinkedIn: [linkedin.com/in/namlephung](https://www.linkedin.com/in/namlephung/)
+- 📧 Email: [nvtdat.0802@gmail.com](mailto:nvtdat.0802@gmail.com)  
+- 🌐 Facebook: ([https://www.facebook.com/nmph13](https://www.facebook.com/taddy0802/))  
+- 💼 LinkedIn: [linkedin.com/in/vincent1402](www.linkedin.com/in/vincent1402)
