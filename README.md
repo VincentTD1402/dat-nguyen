@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namphung134&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namphung134&layout=compact&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VincentTD1402&show_icons=true&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentTD1402&layout=compact&theme=dark" height="165"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namphung134&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VincentTD1402&theme=darkhub" />
 </p>
 
 ---
